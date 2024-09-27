@@ -1,2 +1,2 @@
-text = "hello world"
+text = "python file"
 print(text)
